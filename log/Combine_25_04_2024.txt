@@ -1,0 +1,440 @@
+Player: danchoi- Item: Găng thun thô 7 Sao - Time : 00:03:49
+Player: daica15- Item: Giáp tập luyện cấp 1 7 Sao - Time : 00:08:23
+Player: daica15- Item: Giáp tập luyện cấp 1 8 Sao - Time : 00:08:30
+Player: goku001- Item: Cải trang Goku SSJ4 7 Sao - Time : 00:11:35
+Player: onepuch- Item: Quần vải đen 7 Sao - Time : 00:12:36
+Player: onepuch- Item: Găng da Calic 7 Sao - Time : 00:12:50
+Player: onepuch- Item: Giầy nhựa 7 Sao - Time : 00:13:33
+Player: onepuch- Item: Rada cấp 1 7 Sao - Time : 00:13:47
+Player: onehitt- Item: Áo jean Calic 7 Sao - Time : 00:14:30
+Player: trumxdc2- Item: Áo Thần Xayda 7 Sao - Time : 00:28:18
+Player: trumxdc2- Item: Áo Thần Xayda 8 Sao - Time : 00:28:23
+Player: trumxdc2- Item: Quần Thần Xayda 7 Sao - Time : 00:29:27
+Player: koisokiu- Item: Áo Thần Xayda 7 Sao - Time : 00:30:41
+Player: koisokiu- Item: Áo Thần Xayda 8 Sao - Time : 00:31:29
+Player: trumxdc2- Item: Nhẫn Thần Linh 7 Sao - Time : 00:32:00
+Player: koisokiu- Item: Quần Thần Xayda 7 Sao - Time : 00:32:09
+Player: koisokiu- Item: Quần Thần Xayda 8 Sao - Time : 00:32:15
+Player: koisokiu- Item: Găng Thần Xayda 7 Sao - Time : 00:32:52
+Player: trumxdc2- Item: Găng Thần Xayda 7 Sao - Time : 00:33:49
+Player: trumxdc2- Item: Giầy Thần Xayda 7 Sao - Time : 00:34:53
+Player: koisokiu- Item: Găng Thần Xayda 8 Sao - Time : 00:34:55
+Player: trumxdc2- Item: Giầy Thần Xayda 8 Sao - Time : 00:35:15
+Player: koisokiu- Item: Giầy Thần Xayda 7 Sao - Time : 00:35:30
+Player: koisokiu- Item: Giầy Thần Xayda 8 Sao - Time : 00:35:40
+Player: koisokiu- Item: Nhẫn Thần Linh 7 Sao - Time : 00:36:34
+Player: koisokiu- Item: Nhẫn Thần Linh 8 Sao - Time : 00:38:37
+Player: lehunganh- Item: Cải trang 7 Sao - Time : 00:38:53
+Player: lehunganh- Item: Áo sợi len 7 Sao - Time : 00:43:06
+Player: lehunganh- Item: Quần sợi len 7 Sao - Time : 00:46:51
+Player: koisokiu- Item: Cải trang Dr Lychee 7 Sao - Time : 00:48:21
+Player: tienthanh- Item: Găng jean Calic 7 Sao - Time : 00:49:43
+Player: koisokiu- Item: Cải trang Dr Lychee 8 Sao - Time : 00:49:53
+Player: tienthanh- Item: Găng jean Calic 8 Sao - Time : 00:49:56
+Player: kimochiii- Item: Quần vải đen 7 Sao - Time : 01:02:10
+Player: kimochiii- Item: Quần vải đen 8 Sao - Time : 01:02:17
+Player: lehunganh- Item: Giáp tập luyện cấp 3 7 Sao - Time : 01:02:58
+Player: kimochiii- Item: Áo vải 3 lỗ 7 Sao - Time : 01:03:14
+Player: kimochiii- Item: Áo vải 3 lỗ 8 Sao - Time : 01:03:33
+Player: badguy- Item: Rada cấp 1 7 Sao - Time : 01:03:34
+Player: kimochiii- Item: Găng vải đen 7 Sao - Time : 01:04:34
+Player: badguy- Item: Rada cấp 1 8 Sao - Time : 01:04:38
+Player: kimochiii- Item: Găng vải đen 8 Sao - Time : 01:05:18
+Player: badguy- Item: Giầy sợi len 7 Sao - Time : 01:05:20
+Player: badguy- Item: Găng sợi len 7 Sao - Time : 01:05:37
+Player: kimochiii- Item: Giầy nhựa 7 Sao - Time : 01:05:41
+Player: badguy- Item: Quần sợi len 7 Sao - Time : 01:06:14
+Player: kimochiii- Item: Giầy nhựa 8 Sao - Time : 01:06:22
+Player: badguy- Item: Áo sợi len 7 Sao - Time : 01:06:32
+Player: kimochiii- Item: Rada cấp 1 7 Sao - Time : 01:06:46
+Player: kimochiii- Item: Rada cấp 1 8 Sao - Time : 01:06:54
+Player: badguy- Item: Giầy sợi len 8 Sao - Time : 01:07:59
+Player: badguy- Item: Găng sợi len 8 Sao - Time : 01:08:53
+Player: goku001- Item: Giáp tập luyện cấp 3 7 Sao - Time : 01:09:30
+Player: badguy- Item: Quần sợi len 8 Sao - Time : 01:09:42
+Player: badguy- Item: Áo sợi len 8 Sao - Time : 01:10:32
+Player: goku001- Item: Giáp tập luyện cấp 3 7 Sao - Time : 01:10:44
+Player: badguy- Item: Cải trang 7 Sao - Time : 01:11:33
+Player: badguy- Item: Cải trang 8 Sao - Time : 01:11:34
+Player: khanhkogo- Item: Cải trang 7 Sao - Time : 01:12:19
+Player: badguy- Item: Cải trang Gohan Siêu Nhân 7 Sao - Time : 01:12:38
+Player: vaydo- Item: Găng Thần Xayda 7 Sao - Time : 01:12:44
+Player: badguy- Item: Cải trang Gohan Siêu Nhân 8 Sao - Time : 01:13:22
+Player: vaydo- Item: Găng Thần Xayda 8 Sao - Time : 01:13:34
+Player: vaydo- Item: Nhẫn Thần Linh 7 Sao - Time : 01:13:47
+Player: vaydo- Item: Nhẫn Thần Linh 8 Sao - Time : 01:13:50
+Player: vaydo- Item: Rada cấp 1 7 Sao - Time : 01:15:14
+Player: vaydo- Item: Rada cấp 1 8 Sao - Time : 01:16:03
+Player: vaydo- Item: Giáp tập luyện cấp 3 7 Sao - Time : 01:18:22
+Player: vaydo- Item: Giáp tập luyện cấp 3 8 Sao - Time : 01:18:41
+Player: lehunganh- Item: Giầy sợi len 7 Sao - Time : 01:23:35
+Player: khanhkogoo- Item: Cải trang 7 Sao - Time : 01:29:21
+Player: daica16- Item: Áo sợi len 7 Sao - Time : 01:33:25
+Player: daica16- Item: Áo sợi len 8 Sao - Time : 01:35:53
+Player: daica16- Item: Quần sợi len 7 Sao - Time : 01:36:13
+Player: daica16- Item: Quần sợi len 8 Sao - Time : 01:36:22
+Player: daica16- Item: Găng sợi len 7 Sao - Time : 01:36:59
+Player: daica16- Item: Găng sợi len 8 Sao - Time : 01:38:29
+Player: daica16- Item: Giầy sợi len 7 Sao - Time : 01:39:13
+Player: daica16- Item: Giầy sợi len 8 Sao - Time : 01:39:20
+Player: daica16- Item: Rada cấp 1 7 Sao - Time : 01:39:41
+Player: daica16- Item: Rada cấp 1 8 Sao - Time : 01:40:05
+Player: daica16- Item: Yachirobe Xa Lánh 7 Sao - Time : 01:43:54
+Player: daica16- Item: Yachirobe Xa Lánh 8 Sao - Time : 01:44:18
+Player: khanhkogo- Item: Rada cấp 6 7 Sao - Time : 01:46:39
+Player: khanhkogo- Item: Găng thun thô 7 Sao - Time : 01:46:51
+Player: trumxdc2- Item: Cải trang VIP 7 Sao - Time : 01:47:13
+Player: trumxdc2- Item: Cải trang VIP 8 Sao - Time : 01:47:17
+Player: daica16- Item: Giáp tập luyện cấp 1 7 Sao - Time : 01:58:57
+Player: daica16- Item: Giáp tập luyện cấp 1 8 Sao - Time : 01:59:27
+Player: daica16- Item: Cải trang 7 Sao - Time : 02:05:00
+Player: daica16- Item: Cải trang 8 Sao - Time : 02:05:04
+Player: cadic3m- Item: Găng Thần Xayda 7 Sao - Time : 02:22:06
+Player: khanhkogo- Item: Găng Thần Xayda 7 Sao - Time : 02:23:12
+Player: khanhkogo- Item: Găng Thần Xayda 8 Sao - Time : 02:23:28
+Player: cadic3m- Item: Quần Thần Xayda 7 Sao - Time : 02:24:44
+Player: cadic3m- Item: Quần Thần Xayda 8 Sao - Time : 02:24:53
+Player: cadic3m- Item: Giầy Thần Xayda 7 Sao - Time : 02:25:33
+Player: khanhkogo- Item: Áo lông đỏ 8 Sao - Time : 02:26:09
+Player: cadic3m- Item: Nhẫn Thần Linh 7 Sao - Time : 02:27:03
+Player: cadic3m- Item: Nhẫn Thần Linh 8 Sao - Time : 02:27:07
+Player: cadic3m- Item: Áo Thần Xayda 7 Sao - Time : 02:28:01
+Player: cadic3m- Item: Áo Thần Xayda 8 Sao - Time : 02:28:10
+Player: lienhoan- Item: Quần sợi gai 7 Sao - Time : 02:36:06
+Player: lienhoan- Item: Quần sợi gai 8 Sao - Time : 02:36:08
+Player: xdgod- Item: Cải trang 7 Sao - Time : 02:46:27
+Player: xdgod- Item: Cải trang 8 Sao - Time : 02:46:56
+Player: khanhkogo- Item: Rada cấp 6 8 Sao - Time : 02:48:31
+Player: xdgod- Item: Áo Thần Xayda 8 Sao - Time : 02:50:12
+Player: khanhkogo- Item: Quần thun thô 8 Sao - Time : 02:50:21
+Player: xdgod- Item: Giầy Thần Xayda 8 Sao - Time : 02:51:08
+Player: xdgod- Item: Găng Thần Xayda 8 Sao - Time : 02:51:17
+Player: xdgod- Item: Quần Thần Xayda 8 Sao - Time : 02:51:26
+Player: xdgod- Item: Nhẫn Thần Linh 8 Sao - Time : 02:51:56
+Player: khanhkogo- Item: Cải trang Goku SSJ4 7 Sao - Time : 02:52:28
+Player: khanhkogo- Item: Cải trang Goku SSJ4 8 Sao - Time : 02:53:11
+Player: tunyxtuny- Item: Nhẫn Thần Linh 7 Sao - Time : 03:15:22
+Player: tunyxtuny- Item: Nhẫn Thần Linh 8 Sao - Time : 03:17:54
+Player: trumxdc2- Item: Áo lưỡng long 7 Sao - Time : 03:18:23
+Player: khanhkogoo- Item: Áo Thần Namếc 7 Sao - Time : 03:19:23
+Player: khanhkogoo- Item: Áo Thần Namếc 8 Sao - Time : 03:19:28
+Player: khanhkogoo- Item: Găng Thần Namếc 7 Sao - Time : 03:20:23
+Player: trumxdc2- Item: Quần lông Xayda 7 Sao - Time : 03:20:27
+Player: khanhkogoo- Item: Quần Thần namếc 7 Sao - Time : 03:21:22
+Player: trumxdc2- Item: Găng bạc 7 Sao - Time : 03:22:04
+Player: khanhkogoo- Item: Găng Thần Namếc 8 Sao - Time : 03:22:28
+Player: trumxdc2- Item: Giày siêu Xayda 7 Sao - Time : 03:23:22
+Player: khanhkogoo- Item: Quần Thần namếc 8 Sao - Time : 03:23:26
+Player: trumxdc2- Item: Giày siêu Xayda 8 Sao - Time : 03:23:26
+Player: khanhkogoo- Item: Nhẫn Thần Linh 7 Sao - Time : 03:23:33
+Player: khanhkogoo- Item: Giầy Thần Namếc 7 Sao - Time : 03:24:04
+Player: khanhkogoo- Item: Giầy Thần Namếc 8 Sao - Time : 03:24:06
+Player: trumxdc2- Item: Nhẫn Thần Linh 7 Sao - Time : 03:24:14
+Player: khanhkogoo- Item: Nhẫn Thần Linh 8 Sao - Time : 03:24:44
+Player: tuoigi- Item: Găng vàng Zealot 7 Sao - Time : 03:32:05
+Player: tuoigi- Item: Găng vàng Zealot 8 Sao - Time : 03:32:44
+Player: trumxdc2- Item: Quần lông Xayda 8 Sao - Time : 03:33:33
+Player: trumxdc2- Item: Găng bạc 8 Sao - Time : 03:33:41
+Player: trumxdc2- Item: Nhẫn Thần Linh 8 Sao - Time : 03:34:45
+Player: tuoigi- Item: Cải trang VIP 7 Sao - Time : 03:34:58
+Player: tuoigi- Item: Cải trang VIP 8 Sao - Time : 03:35:42
+Player: goku001- Item: Nhẫn Thần Linh 7 Sao - Time : 03:51:41
+Player: tuoigi- Item: Cải trang VIP 7 Sao - Time : 03:52:04
+Player: goku001- Item: Giầy Thần Xayda 7 Sao - Time : 03:52:38
+Player: goku001- Item: Găng Thần Xayda 7 Sao - Time : 03:53:51
+Player: goku001- Item: Áo Thần Xayda 7 Sao - Time : 03:54:15
+Player: tuoigi- Item: Cải trang VIP 8 Sao - Time : 03:54:40
+Player: goku001- Item: Quần Thần Xayda 7 Sao - Time : 03:55:17
+Player: goku001- Item: Nhẫn Thần Linh 8 Sao - Time : 03:56:03
+Player: goku001- Item: Giầy Thần Xayda 8 Sao - Time : 03:57:14
+Player: goku001- Item: Găng Thần Xayda 8 Sao - Time : 03:58:37
+Player: goku001- Item: Áo Thần Xayda 8 Sao - Time : 03:59:13
+Player: goku001- Item: Quần Thần Xayda 8 Sao - Time : 03:59:19
+Player: goku001- Item: Cải trang Vegeta SSJ4 7 Sao - Time : 04:00:00
+Player: goku001- Item: Cải trang Vegeta SSJ4 8 Sao - Time : 04:00:20
+Player: daica16- Item: Rada cấp 12 7 Sao - Time : 04:20:40
+Player: daica16- Item: Rada cấp 12 8 Sao - Time : 04:21:10
+Player: daica16- Item: Găng vàng Zealot 7 Sao - Time : 04:21:45
+Player: daica16- Item: Găng vàng Zealot 8 Sao - Time : 04:23:44
+Player: daica16- Item: Áo da Pico 7 Sao - Time : 04:24:20
+Player: daica16- Item: Áo da Pico 8 Sao - Time : 04:24:26
+Player: daica16- Item: Quần đồng Tron 7 Sao - Time : 04:24:57
+Player: daica16- Item: Quần đồng Tron 8 Sao - Time : 04:28:39
+Player: goku001- Item: Áo Kaio 7 Sao - Time : 04:29:09
+Player: daica16- Item: Giày sắt Pico 7 Sao - Time : 04:29:13
+Player: goku001- Item: Quần lưỡng long 7 Sao - Time : 04:29:27
+Player: goku001- Item: Quần lưỡng long 8 Sao - Time : 04:29:30
+Player: goku001- Item: Giày Kaio 7 Sao - Time : 04:29:51
+Player: goku001- Item: Rada cấp 12 7 Sao - Time : 04:30:08
+Player: goku001- Item: Găng Thần Xayda 7 Sao - Time : 04:30:27
+Player: daica16- Item: Giày sắt Pico 8 Sao - Time : 04:30:37
+Player: daica16- Item: Giáp tập luyện cấp 3 7 Sao - Time : 04:31:11
+Player: daica16- Item: Giáp tập luyện cấp 3 8 Sao - Time : 04:31:19
+Player: goku001- Item: Găng lưỡng long 7 Sao - Time : 04:33:33
+Player: daica16- Item: Yachirobe Xa Lánh 7 Sao - Time : 04:37:37
+Player: daica16- Item: Yachirobe Xa Lánh 8 Sao - Time : 04:37:43
+Player: thayhuan- Item: Găng lưỡng long 8 Sao - Time : 04:47:06
+Player: trapboy- Item: Áo vải 3 lỗ 7 Sao - Time : 05:57:01
+Player: trapboy- Item: Áo vải 3 lỗ 8 Sao - Time : 05:57:10
+Player: phatdzgenz- Item: Găng lưỡng long 7 Sao - Time : 06:01:15
+Player: trapboy- Item: Quần vải đen 7 Sao - Time : 06:01:31
+Player: phatdzgenz- Item: Giày lưỡng long 7 Sao - Time : 06:02:17
+Player: phatdzgenz- Item: Rada cấp 12 7 Sao - Time : 06:05:44
+Player: phatdzgenz- Item: Giáp tập luyện cấp 3 7 Sao - Time : 06:06:58
+Player: trapboy- Item: Giầy nhựa 7 Sao - Time : 06:14:19
+Player: danphuong- Item: Áo vải 3 lỗ 7 Sao - Time : 06:31:11
+Player: danphuong- Item: Quần vải đen 7 Sao - Time : 06:42:49
+Player: danphuong- Item: Găng vải đen 7 Sao - Time : 06:44:04
+Player: danphuong- Item: Giầy nhựa 7 Sao - Time : 06:44:53
+Player: danphuong- Item: Rada cấp 1 7 Sao - Time : 06:45:45
+Player: danphuong- Item: Cải trang Goku SSJ4 7 Sao - Time : 06:55:29
+Player: maydam390- Item: Quần võ goku 7 Sao - Time : 07:14:27
+Player: godkids2- Item: Cải trang Mị Nương 8 Sao - Time : 07:18:07
+Player: maydam390- Item: Giầy nhựa 7 Sao - Time : 07:20:47
+Player: maydam390- Item: Rada cấp 1 7 Sao - Time : 07:21:13
+Player: maydam390- Item: Rada cấp 1 8 Sao - Time : 07:21:23
+Player: matsumi- Item: Quần vải đen 7 Sao - Time : 07:22:16
+Player: matsumi- Item: Găng vải đen 7 Sao - Time : 07:22:39
+Player: matsumi- Item: Giầy nhựa 7 Sao - Time : 07:23:01
+Player: matsumi- Item: Rada cấp 1 7 Sao - Time : 07:23:20
+Player: matsumi- Item: Giáp tập luyện cấp 3 7 Sao - Time : 07:28:48
+Player: matsumi- Item: Giáp tập luyện cấp 3 8 Sao - Time : 07:28:53
+Player: cadicka- Item: Áo vải thô 7 Sao - Time : 07:39:45
+Player: cadicka- Item: Áo vải thô 8 Sao - Time : 07:39:50
+Player: cadicka- Item: Quần vải thô 7 Sao - Time : 07:41:40
+Player: cadicka- Item: Găng vải thô 7 Sao - Time : 07:43:18
+Player: cadicka- Item: Giầy vải thô 7 Sao - Time : 07:43:59
+Player: cadicka- Item: Rada cấp 1 7 Sao - Time : 07:44:51
+Player: cadicka- Item: Rada cấp 1 8 Sao - Time : 07:45:02
+Player: cadicka- Item: Giầy vải thô 8 Sao - Time : 07:45:11
+Player: trapboy- Item: Rada cấp 4 7 Sao - Time : 07:53:14
+Player: trapboy- Item: Rada cấp 4 8 Sao - Time : 07:53:19
+Player: trapboy- Item: Quần vải đen 8 Sao - Time : 08:00:44
+Player: cadicka- Item: Yachirobe Xa Lánh 7 Sao - Time : 08:05:39
+Player: trapboy- Item: Giáp tập luyện cấp 1 7 Sao - Time : 08:32:54
+Player: maydam390- Item: Găng jean Calic 7 Sao - Time : 08:35:31
+Player: maydam390- Item: Giáp tập luyện cấp 3 7 Sao - Time : 08:53:42
+Player: mi2tom- Item: Áo vải thô 7 Sao - Time : 08:53:58
+Player: mi2tom- Item: Áo vải thô 8 Sao - Time : 08:55:10
+Player: mi2tom- Item: Quần vải thô 7 Sao - Time : 08:55:22
+Player: trapboy- Item: Cải trang Goku SSJ4 7 Sao - Time : 08:55:30
+Player: mi2tom- Item: Quần vải thô 8 Sao - Time : 08:56:02
+Player: mi2tom- Item: Găng vải thô 7 Sao - Time : 08:56:19
+Player: mi2tom- Item: Găng vải thô 8 Sao - Time : 08:57:28
+Player: mi2tom- Item: Giầy vải thô 7 Sao - Time : 08:57:40
+Player: mi2tom- Item: Giầy vải thô 8 Sao - Time : 08:58:13
+Player: mi2tom- Item: Rada cấp 1 7 Sao - Time : 08:58:35
+Player: mi2tom- Item: Rada cấp 1 8 Sao - Time : 08:58:38
+Player: mi2tom- Item: Giáp tập luyện cấp 1 7 Sao - Time : 09:05:30
+Player: mi2tom- Item: Giáp tập luyện cấp 1 8 Sao - Time : 09:05:46
+Player: lehunganh- Item: Cải trang Goku SSJ4 7 Sao - Time : 09:49:32
+Player: lehunganh- Item: Áo sợi len 7 Sao - Time : 09:52:51
+Player: lehunganh- Item: Quần sợi len 7 Sao - Time : 09:55:26
+Player: lehunganh- Item: Găng sợi len 7 Sao - Time : 09:56:50
+Player: badguy- Item: Nhẫn Thần Linh 7 Sao - Time : 10:07:10
+Player: badguy- Item: Nhẫn Thần Linh 8 Sao - Time : 10:07:13
+Player: badguy- Item: Giầy Thần Namếc 7 Sao - Time : 10:07:30
+Player: badguy- Item: Giầy Thần Namếc 8 Sao - Time : 10:07:33
+Player: badguy- Item: Găng Thần Namếc 7 Sao - Time : 10:07:50
+Player: maydam48- Item: Áo sợi len 7 Sao - Time : 10:07:52
+Player: maydam48- Item: Quần sợi len 7 Sao - Time : 10:08:12
+Player: maydam48- Item: Giầy sợi len 7 Sao - Time : 10:08:39
+Player: maydam48- Item: Rada cấp 1 7 Sao - Time : 10:08:58
+Player: badguy- Item: Găng Thần Namếc 8 Sao - Time : 10:10:04
+Player: vtmoii- Item: Rada cấp 4 8 Sao - Time : 10:26:25
+Player: vtmoii- Item: Giày vàng Goku 8 Sao - Time : 10:27:45
+Player: ukquanuk- Item: Quần võ goku 7 Sao - Time : 10:31:04
+Player: maydam48- Item: Găng bạc Zealot 7 Sao - Time : 10:31:06
+Player: maydam48- Item: Găng bạc Zealot 8 Sao - Time : 10:31:38
+Player: maydam48- Item: Rada cấp 3 7 Sao - Time : 10:32:10
+Player: hoi01- Item: Nhẫn Thần Linh 7 Sao - Time : 10:33:25
+Player: maydam48- Item: Rada cấp 3 8 Sao - Time : 10:33:55
+Player: maydam48- Item: Quần thun cứng 7 Sao - Time : 10:34:28
+Player: hoi01- Item: Nhẫn Thần Linh 8 Sao - Time : 10:34:30
+Player: maydam48- Item: Quần thun cứng 8 Sao - Time : 10:35:38
+Player: maydam48- Item: Áo sợi len 7 Sao - Time : 10:36:13
+Player: maydam48- Item: Áo sợi len 8 Sao - Time : 10:37:32
+Player: maydam48- Item: Giày nhựa cứng 7 Sao - Time : 10:38:45
+Player: maydam48- Item: Giày nhựa cứng 8 Sao - Time : 10:39:18
+Player: ukquanuk- Item: Áo võ Kame 7 Sao - Time : 10:39:21
+Player: hoi01- Item: Áo len Pico 7 Sao - Time : 10:48:19
+Player: hoi01- Item: Quần sợi gai 7 Sao - Time : 10:48:53
+Player: hoi01- Item: Găng vàng Zealot 7 Sao - Time : 10:49:12
+Player: hoi01- Item: Rada cấp 1 7 Sao - Time : 10:49:27
+Player: hoi01- Item: Giáp tập luyện cấp 1 7 Sao - Time : 10:50:04
+Player: hoi01- Item: Quần sợi gai 8 Sao - Time : 10:50:15
+Player: hoi01- Item: Giầy cao su Pico 7 Sao - Time : 10:50:34
+Player: hoi01- Item: Giầy cao su Pico 8 Sao - Time : 10:50:35
+Player: ukquanuk- Item: Găng thun Kame 7 Sao - Time : 10:51:24
+Player: maydam48- Item: Cải trang Vegeta SSJ4 7 Sao - Time : 10:51:56
+Player: ukquanuk- Item: Găng võ goku 7 Sao - Time : 10:57:25
+Player: maydam48- Item: Cải trang Vegeta SSJ4 8 Sao - Time : 10:59:23
+Player: ukquanuk- Item: Giày võ kame 7 Sao - Time : 11:00:35
+Player: ukquanuk- Item: Rada cấp 4 7 Sao - Time : 11:03:54
+Player: akira- Item: Găng Hủy Diệt 7 Sao - Time : 11:10:40
+Player: akira- Item: Găng Hủy Diệt 8 Sao - Time : 11:10:45
+Player: trapboy- Item: Giầy nhựa 8 Sao - Time : 11:11:40
+Player: ukquanuk- Item: Giáp tập luyện cấp 2 7 Sao - Time : 11:11:51
+Player: trapboy- Item: Giáp tập luyện cấp 1 8 Sao - Time : 11:12:01
+Player: trapboy- Item: Cải trang Goku SSJ4 8 Sao - Time : 11:13:41
+Player: badguy- Item: Quần Thần namếc 7 Sao - Time : 11:37:33
+Player: badguy- Item: Quần Thần namếc 8 Sao - Time : 11:37:51
+Player: badguy- Item: Áo Thần Namếc 7 Sao - Time : 11:38:11
+Player: badguy- Item: Áo Thần Namếc 8 Sao - Time : 11:38:19
+Player: badguy- Item: Giáp tập luyện cấp 3 7 Sao - Time : 11:39:38
+Player: badguy- Item: Giáp tập luyện cấp 3 8 Sao - Time : 11:39:44
+Player: badguy- Item: Cải trang VIP 7 Sao - Time : 11:40:07
+Player: akira- Item: Áo vải 3 lỗ 7 Sao - Time : 11:40:40
+Player: akira- Item: Quần vải đen 7 Sao - Time : 11:42:02
+Player: chienhohen- Item: Quần sợi gai 8 Sao - Time : 11:42:21
+Player: akira- Item: Quần vải đen 8 Sao - Time : 11:42:44
+Player: akira- Item: Áo vải 3 lỗ 8 Sao - Time : 11:43:06
+Player: chienhohen- Item: Áo vàng Zealot 8 Sao - Time : 11:43:17
+Player: chienhohen- Item: Giáp tập luyện cấp 3 7 Sao - Time : 11:43:53
+Player: akira- Item: Găng vải đen 7 Sao - Time : 11:44:31
+Player: chienhohen- Item: Giáp tập luyện cấp 3 8 Sao - Time : 11:45:19
+Player: akira- Item: Găng vải đen 8 Sao - Time : 11:45:27
+Player: akira- Item: Giầy nhựa 7 Sao - Time : 11:46:39
+Player: akira- Item: Giầy nhựa 8 Sao - Time : 11:46:45
+Player: akira- Item: Rada cấp 1 7 Sao - Time : 11:47:28
+Player: akira- Item: Rada cấp 1 8 Sao - Time : 11:48:06
+Player: akira- Item: Giáp tập luyện cấp 1 7 Sao - Time : 11:49:00
+Player: akira- Item: Giáp tập luyện cấp 1 8 Sao - Time : 11:49:05
+Player: kioren- Item: Áo vải 3 lỗ 7 Sao - Time : 11:57:15
+Player: kioren- Item: Quần vải đen 7 Sao - Time : 11:57:22
+Player: kioren- Item: Giầy nhựa 7 Sao - Time : 11:57:31
+Player: kioren- Item: Rada cấp 1 7 Sao - Time : 11:57:37
+Player: badguy- Item: Cải trang VIP 8 Sao - Time : 12:01:13
+Player: lehunganh1- Item: Rada cấp 1 7 Sao - Time : 12:37:29
+Player: lehunganh1- Item: Áo vải thô 7 Sao - Time : 12:38:04
+Player: lehunganh1- Item: Quần vải thô 7 Sao - Time : 12:39:35
+Player: lehunganh1- Item: Giầy vải thô 7 Sao - Time : 12:42:03
+Player: gegechua- Item: Găng vàng Zealot 7 Sao - Time : 12:57:56
+Player: gegechua- Item: Quần Thần namếc 7 Sao - Time : 13:00:39
+Player: gegechua- Item: Rada cấp 5 7 Sao - Time : 13:02:21
+Player: gegechua- Item: Giày vàng Zealot 7 Sao - Time : 13:03:41
+Player: gegechua- Item: Áo đồng Tron 7 Sao - Time : 13:04:39
+Player: bayby- Item: Găng Thần Linh 7 Sao - Time : 13:09:15
+Player: bayby- Item: Găng Thần Linh 8 Sao - Time : 13:09:45
+Player: lehunganh1- Item: Giáp tập luyện cấp 1 7 Sao - Time : 13:18:44
+Player: auuyyrq- Item: Áo vải thô 8 Sao - Time : 13:20:14
+Player: auuyyrq- Item: Quần vải thô 8 Sao - Time : 13:21:07
+Player: auuyyrq- Item: Giầy vải thô 8 Sao - Time : 13:21:51
+Player: auuyyrq- Item: Cải trang VIP 7 Sao - Time : 13:43:53
+Player: auuyyrq- Item: Cải trang VIP 8 Sao - Time : 13:44:27
+Player: bayby- Item: Nhẫn Hủy Diệt 7 Sao - Time : 13:44:38
+Player: bayby- Item: Nhẫn Hủy Diệt 8 Sao - Time : 13:44:42
+Player: bayby- Item: Áo Hủy Diệt 7 Sao - Time : 13:45:37
+Player: bayby- Item: Áo Hủy Diệt 8 Sao - Time : 13:46:18
+Player: bayby- Item: Quần Hủy Diệt 7 Sao - Time : 13:47:05
+Player: bayby- Item: Quần Hủy Diệt 8 Sao - Time : 13:47:25
+Player: bayby- Item: Giầy Hủy Diệt 7 Sao - Time : 13:48:38
+Player: bayby- Item: Giầy Hủy Diệt 8 Sao - Time : 13:51:22
+Player: maydam48- Item: Cải trang Vegeta SSJ4 7 Sao - Time : 14:50:42
+Player: tienthanh- Item: Cải trang Frost 3 7 Sao - Time : 15:50:32
+Player: tienthanh- Item: Cải trang Frost 3 8 Sao - Time : 15:52:03
+Player: danchoi- Item: Rada cấp 6 7 Sao - Time : 16:04:05
+Player: gegechua- Item: Cải trang 7 Sao - Time : 16:29:58
+Player: yamcha- Item: Áo vải 3 lỗ 7 Sao - Time : 17:17:23
+Player: yamcha- Item: Áo vải 3 lỗ 8 Sao - Time : 17:18:17
+Player: yamcha- Item: Quần vải đen 7 Sao - Time : 17:19:09
+Player: hihihihi- Item: Cải trang Yardrat 7 Sao - Time : 17:20:16
+Player: trapboy- Item: Găng jean Calic 7 Sao - Time : 17:28:18
+Player: trapboy- Item: Găng jean Calic 8 Sao - Time : 17:31:35
+Player: badguy- Item: Cải trang VIP 7 Sao - Time : 17:43:07
+Player: badguy- Item: Cải trang VIP 8 Sao - Time : 17:43:32
+Player: vuavip- Item: Cải trang VIP 7 Sao - Time : 17:52:13
+Player: vuavip- Item: Găng Thần Namếc 7 Sao - Time : 17:52:37
+Player: vuavip- Item: Cải trang VIP 8 Sao - Time : 17:53:02
+Player: vuavip- Item: Găng Thần Namếc 8 Sao - Time : 17:53:27
+Player: trapboy- Item: Rada cấp 10 7 Sao - Time : 17:58:03
+Player: trapboy- Item: Rada cấp 10 8 Sao - Time : 17:58:08
+Player: trapboy- Item: Găng Thần Linh 7 Sao - Time : 17:59:02
+Player: trapboy- Item: Găng Thần Linh 8 Sao - Time : 17:59:43
+Player: khanhkogoo- Item: Găng vàng Zealot 7 Sao - Time : 18:00:52
+Player: khanhkogoo- Item: Găng vàng Zealot 8 Sao - Time : 18:00:53
+Player: sygodboy- Item: Áo Thần Namếc 7 Sao - Time : 18:05:45
+Player: maydam48- Item: Găng vàng Zealot 7 Sao - Time : 18:12:18
+Player: maydam48- Item: Găng vàng Zealot 8 Sao - Time : 18:12:26
+Player: vuavip- Item: Cải trang Frost 3 7 Sao - Time : 18:35:58
+Player: vuavip- Item: Cải trang Frost 3 8 Sao - Time : 18:36:23
+Player: sygodboy- Item: Áo len Pico 7 Sao - Time : 18:50:02
+Player: sygodboy- Item: Áo len Pico 8 Sao - Time : 18:50:03
+Player: sygodboy- Item: Quần sợi gai 7 Sao - Time : 18:50:15
+Player: sygodboy- Item: Rada cấp 2 7 Sao - Time : 18:51:24
+Player: sygodboy- Item: Giầy cao su Pico 7 Sao - Time : 18:52:21
+Player: sygodboy- Item: Rada cấp 2 8 Sao - Time : 18:52:51
+Player: sygodboy- Item: Quần sợi gai 8 Sao - Time : 18:53:54
+Player: sygodboy- Item: Bulma Ả Rập Xê Út 7 Sao - Time : 18:55:04
+Player: sygodboy- Item: Giầy cao su Pico 8 Sao - Time : 18:56:27
+Player: sygodboy- Item: Bulma Ả Rập Xê Út 8 Sao - Time : 18:56:33
+Player: trum22m- Item: Giầy nhựa 7 Sao - Time : 18:58:06
+Player: trum22m- Item: Giầy nhựa 8 Sao - Time : 18:58:13
+Player: trum22m- Item: Quần vải đen 7 Sao - Time : 18:59:09
+Player: trum22m- Item: Quần vải đen 8 Sao - Time : 18:59:11
+Player: trum22m- Item: Áo vải 3 lỗ 7 Sao - Time : 18:59:20
+Player: trum22m- Item: Áo vải 3 lỗ 8 Sao - Time : 19:00:02
+Player: chaomynhan- Item: Găng da Xayda 7 Sao - Time : 20:31:07
+Player: c2badao2c- Item: Áo vải thô 7 Sao - Time : 20:32:13
+Player: c2badao2c- Item: Áo vải thô 8 Sao - Time : 20:32:17
+Player: c2badao2c- Item: Giầy vải thô 7 Sao - Time : 20:35:23
+Player: c2badao2c- Item: Găng vải thô 7 Sao - Time : 20:35:28
+Player: c2badao2c- Item: Quần vải thô 7 Sao - Time : 20:35:41
+Player: c2badao2c- Item: Cải trang Hatchiyack 7 Sao - Time : 20:36:45
+Player: sagatv- Item: Quần vải thô 7 Sao - Time : 20:38:33
+Player: sagatv- Item: Giầy vải thô 7 Sao - Time : 20:38:55
+Player: sagatv- Item: Áo vải thô 7 Sao - Time : 20:39:00
+Player: sagatv- Item: Rada cấp 1 7 Sao - Time : 20:39:50
+Player: agaggag- Item: Quần vải thô 7 Sao - Time : 20:40:54
+Player: agaggag- Item: Găng vải thô 7 Sao - Time : 20:41:01
+Player: agaggag- Item: Giầy vải thô 7 Sao - Time : 20:41:09
+Player: agaggag- Item: Rada cấp 1 7 Sao - Time : 20:41:33
+Player: death- Item: Rada cấp 1 7 Sao - Time : 20:51:35
+Player: cadic1ty- Item: Cải trang Dr Lychee 7 Sao - Time : 20:56:19
+Player: cadic1ty- Item: Rada cấp 1 7 Sao - Time : 20:57:07
+Player: cadic1ty- Item: Áo vải thô 7 Sao - Time : 20:57:27
+Player: cadic1ty- Item: Quần vải thô 7 Sao - Time : 20:57:51
+Player: cadic1ty- Item: Giầy vải thô 7 Sao - Time : 20:59:18
+Player: cadic1ty- Item: Găng vải thô 7 Sao - Time : 20:59:28
+Player: cadic1ty- Item: Găng vải thô 8 Sao - Time : 20:59:39
+Player: sagatv- Item: Găng lưỡng long 7 Sao - Time : 21:00:48
+Player: namdep- Item: Áo sợi len 7 Sao - Time : 21:01:28
+Player: namdep- Item: Áo sợi len 8 Sao - Time : 21:01:30
+Player: namdep- Item: Quần sợi len 7 Sao - Time : 21:03:22
+Player: sagatv- Item: Áo lưỡng long 7 Sao - Time : 21:04:11
+Player: sagatv- Item: Găng lưỡng long 7 Sao - Time : 21:05:56
+Player: sagatv- Item: Rada cấp 12 7 Sao - Time : 21:06:11
+Player: sagatv- Item: Giáp tập luyện cấp 1 7 Sao - Time : 21:07:10
+Player: sagatv- Item: Yachirobe Xa Lánh 7 Sao - Time : 21:07:52
+Player: sagatv- Item: Quần lưỡng long 7 Sao - Time : 21:08:29
+Player: sagatv- Item: Cải trang Mị Nương 7 Sao - Time : 21:14:17
+Player: sagatv- Item: Cải trang Hatchiyack 7 Sao - Time : 21:14:28
+Player: namdep2- Item: Giáp tập luyện cấp 1 7 Sao - Time : 21:15:22
+Player: agaggag- Item: Rada cấp 1 7 Sao - Time : 21:18:06
+Player: death- Item: Giầy sợi len 7 Sao - Time : 21:18:33
+Player: agaggag- Item: Áo vải 3 lỗ 7 Sao - Time : 21:18:36
+Player: death- Item: Quần sợi len 7 Sao - Time : 21:18:47
+Player: agaggag- Item: Giầy nhựa 7 Sao - Time : 21:18:53
+Player: death- Item: Áo sợi len 7 Sao - Time : 21:18:59
+Player: agaggag- Item: Quần vải đen 7 Sao - Time : 21:19:00
+Player: bunboy- Item: Áo vải thô 7 Sao - Time : 21:30:30
+Player: bunboy- Item: Áo vải thô 7 Sao - Time : 21:30:53
+Player: bunboy- Item: Quần lưỡng long 7 Sao - Time : 21:31:22
+Player: bunboy- Item: Quần lưỡng long 7 Sao - Time : 21:32:08
+Player: kenzickti- Item: Rada cấp 1 7 Sao - Time : 21:32:31
+Player: bunboy- Item: Găng vải thô 7 Sao - Time : 21:32:37
+Player: kenzickti- Item: Áo vải thô 7 Sao - Time : 21:32:48
+Player: kenzickti- Item: Giày vàng 7 Sao - Time : 21:32:56
+Player: kenzickti- Item: Quần vải thô 7 Sao - Time : 21:33:28
+Player: bunboy- Item: Giầy vải thô 7 Sao - Time : 21:33:31
+Player: sagatv- Item: Giày lưỡng long 7 Sao - Time : 21:36:43
+Player: khanhsd- Item: Rada cấp 1 7 Sao - Time : 21:37:26
+Player: matuy- Item: Quần sợi len 7 Sao - Time : 21:39:54
+Player: matuy- Item: Rada cấp 1 7 Sao - Time : 21:40:48
+Player: matuy- Item: Giầy sợi len 7 Sao - Time : 21:40:56
+Player: death- Item: Giầy sợi len 7 Sao - Time : 21:45:06
+Player: death- Item: Quần sợi len 7 Sao - Time : 21:46:48
+Player: inkame- Item: Bulma Ả Rập Xê Út 7 Sao - Time : 21:46:54
+Player: death- Item: Áo sợi len 7 Sao - Time : 21:46:55
+Player: inkame- Item: Găng da Calic 7 Sao - Time : 21:49:06
+Player: trungsec- Item: Giầy vải thô 7 Sao - Time : 21:51:15
